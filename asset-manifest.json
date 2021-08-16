@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/web3react-example-counter/static/js/main.8f243dff.chunk.js",
+    "main.js.map": "/web3react-example-counter/static/js/main.8f243dff.chunk.js.map",
+    "runtime-main.js": "/web3react-example-counter/static/js/runtime-main.ee4f6b33.js",
+    "runtime-main.js.map": "/web3react-example-counter/static/js/runtime-main.ee4f6b33.js.map",
+    "static/js/2.3d04a3e4.chunk.js": "/web3react-example-counter/static/js/2.3d04a3e4.chunk.js",
+    "static/js/2.3d04a3e4.chunk.js.map": "/web3react-example-counter/static/js/2.3d04a3e4.chunk.js.map",
+    "index.html": "/web3react-example-counter/index.html",
+    "static/js/2.3d04a3e4.chunk.js.LICENSE.txt": "/web3react-example-counter/static/js/2.3d04a3e4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ee4f6b33.js",
+    "static/js/2.3d04a3e4.chunk.js",
+    "static/js/main.8f243dff.chunk.js"
+  ]
+}
